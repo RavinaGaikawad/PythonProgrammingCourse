@@ -1,0 +1,5 @@
+Setup Steps
+
+1. Install Python - https://www.python.org/downloads/
+2. Install VS Code - https://code.visualstudio.com/download
+
