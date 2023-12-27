@@ -8,8 +8,10 @@
 [Setup Software Download Links](https://github.com/RavinaGaikawad/PythonProgrammingCourse/blob/main/PythonSetup.txt)
 
 ## Chapters released
-1. [Instructor intro](addlinkhere)
-2. [Intro to Python, applications and setup (using VS code)](addlinkhere)
+
+### Chapter 1
+  1. [Instructor intro](addlinkhere)
+  2. [Intro to Python, applications and setup (using VS code)](addlinkhere)
 
 
 ### How can you contact me?
