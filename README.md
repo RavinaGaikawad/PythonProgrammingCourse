@@ -10,9 +10,15 @@
 ## Chapters released
 
 ### Chapter 1
-  1. [Instructor intro](addlinkhere)
-  2. [Intro to Python, applications and setup (using VS code)](addlinkhere)
+  - [Instructor intro](https://youtu.be/mahpfzuRpFI)
+  - [Intro to Python, applications and setup (using VS code)](https://youtu.be/njDniZiNEEE)
 
+### Chapter 2
+  - [Variables in Python](https://youtu.be/DzydUx_jptI)
+
+### Chapter 3
+#### Data Structures
+- [Strings](addlinkhere)
 
 ### How can you contact me?
 - [Youtube Channel](https://youtube.com/@pseudocoder_ravina?si=aKn7zl3qNhXfTMGj)
