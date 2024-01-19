@@ -18,7 +18,8 @@
 
 ### Chapter 3
 #### Data Structures
-- [Strings](addlinkhere)
+- [Strings](https://youtu.be/1OACsMPWBhc)
+- [Lists](addlinkhere)
 
 ### How can you contact me?
 - [Youtube Channel](https://youtube.com/@pseudocoder_ravina?si=aKn7zl3qNhXfTMGj)
