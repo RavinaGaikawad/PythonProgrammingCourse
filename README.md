@@ -19,7 +19,9 @@
 ### Chapter 3
 #### Data Structures
 - [Strings](https://youtu.be/1OACsMPWBhc)
-- [Lists](addlinkhere)
+- [Lists](https://youtu.be/h4NpqwQaKrU)
+- [Tuples](https://youtu.be/ittCZoemFXw)
+- [Sets](https://youtu.be/PZo4oRcUGZs)
 
 ### How can you contact me?
 - [Youtube Channel](https://youtube.com/@pseudocoder_ravina?si=aKn7zl3qNhXfTMGj)
