@@ -22,6 +22,7 @@
 - [Lists](https://youtu.be/h4NpqwQaKrU)
 - [Tuples](https://youtu.be/ittCZoemFXw)
 - [Sets](https://youtu.be/PZo4oRcUGZs)
+- [Dictionaries](https://youtu.be/4M2Ngfm6Exg)
 
 ### How can you contact me?
 - [Youtube Channel](https://youtube.com/@pseudocoder_ravina?si=aKn7zl3qNhXfTMGj)
