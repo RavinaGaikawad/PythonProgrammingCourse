@@ -23,6 +23,8 @@
 - [Tuples](https://youtu.be/ittCZoemFXw)
 - [Sets](https://youtu.be/PZo4oRcUGZs)
 - [Dictionaries](https://youtu.be/4M2Ngfm6Exg)
+- [Trees](https://youtu.be/oERfyr8gPEA)
+- [Linked List](https://youtu.be/6jnpqBpbMPw)
 
 ### How can you contact me?
 - [Youtube Channel](https://youtube.com/@pseudocoder_ravina?si=aKn7zl3qNhXfTMGj)
